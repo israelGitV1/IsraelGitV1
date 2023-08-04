@@ -2,7 +2,7 @@
 
 ## Intro
 
-Developer since 2022, working mainly in Java projetcts, using
+Developer since 2022, working mainly in JavaScript projetcts, using
 
 - React.js (Next.js)
 - Node.js (Express, Nest.js)
