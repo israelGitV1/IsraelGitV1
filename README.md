@@ -4,7 +4,7 @@
 
 Developer since 2023, working mainly in JavaScript projetcts, using
 
-- Java
+- Javascript
 - React.js (Next.js)
 - Node.js (Express, Nest.js)
 - React Native
