@@ -2,7 +2,9 @@
 
 ## Intro
 
-Developer since 2023, working mainly in JavaScript projetcts, using
+Graduated in information technology management from Estacio.<br>
+Working mainly in JavaScript projetcts, using.<br>
+Passionate about mangá and technology, some of my hobbies are games, watching, reading.
 
 # Conecteo-se Comigo
 
