@@ -30,7 +30,7 @@ Passionate about mangá and technology, some of my hobbies are games, watching, 
 
 ### Banco de Dados
 
-![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
 ### Cloud Computing Service
 
