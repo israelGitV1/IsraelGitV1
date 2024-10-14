@@ -22,15 +22,17 @@ Passionate about mangá and technology, some of my hobbies are games, watching, 
 ### Linguagens de Programação
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Bibliotecas e Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Banco de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![SQLServer](https://img.shields.io/badge/SQLServer-%231287B1.svg?style=for-the-badge&logoColor=white)
 
 ### Cloud Computing Service
 
